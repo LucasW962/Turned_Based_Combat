@@ -1,0 +1,3 @@
+C:/Users/Lucas/OneDrive/Documentos/CS121_FINAL/build/CMakeFiles/TurnBasedBattle.dir
+C:/Users/Lucas/OneDrive/Documentos/CS121_FINAL/build/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/OneDrive/Documentos/CS121_FINAL/build/CMakeFiles/rebuild_cache.dir
