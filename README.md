@@ -82,6 +82,7 @@ Defines the structure of actions performed in combat:
 
 ## Build Instructions
 // I learned about CMake so let me explain how to compile it
+ the demo below is the one i was given to know how to compile
 1. Download CMake
 2. Clone the repository
 3. Create a build directory: "mkdir build"
